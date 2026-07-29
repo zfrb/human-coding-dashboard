@@ -29,5 +29,5 @@ The example data utilizes short excerpts from the following news articles:
 2. Move into the directory:
 ```cd human-coding-dashboard```
 3. Run the example script to generate the HTML tool:
-```python example_economy.py```
+```python example_economynews.py```
 Open the newly generated human_coding_economy_valence.html in any web browser and begin coding.
