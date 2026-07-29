@@ -1,0 +1,28 @@
+[
+  {
+    "record_id": "wsj_article_001",
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "text": "An improvement in the finances of working people at the lower end of the economic scale might help explain why their spending on both essentials and discretionary items has accelerated recently, some economists said."
+      },
+      {
+        "chunk_id": 1,
+        "text": "New federal data this week showed an acceleration in weekly earnings growth for low- and middle-income full-time workers during the second quarter, compared with a year earlier."
+      }
+    ]
+  },
+  {
+    "record_id": "nyt_article_001",
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "text": "She started researching how to start her own boutique Pilates business, including what kind of training instructors would need. By early 2025 — and with assistance from chatbots including ChatGPT — she had come up with a name, Revel Method Pilates, a logo and a plan."
+      },
+      {
+        "chunk_id": 1,
+        "text": "Soon, Ms. Winkler, 26, had opened studios in Lake Geneva, Madison and Monona. She now has 65 employees and is set to unveil a fourth studio this year. Across the country, founders like Ms. Winkler are powering an entrepreneurial renaissance."
+      }
+    ]
+  }
+]
