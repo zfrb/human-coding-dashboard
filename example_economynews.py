@@ -27,10 +27,10 @@ economy_article_tags = {
             {"id": "micro_focus", "label": "Focuses on Microeconomic/Individual Impact"},
             {"id": "policy_critique", "label": "Contains explicit critique of government policy"}]}
 
-with open("articles.json", "r", encoding="utf-8") as f:
+with open("example_data/articles.json", "r", encoding="utf-8") as f:
         economy_news = json.load(f)
         
-codebook = get_pdf_base64("codebook.pdf")
+codebook = get_pdf_base64("example_data/codebook.pdf")
 
 
 print("Building coding dashboard...")
