@@ -35,7 +35,7 @@ codebook = get_pdf_base64("example_data/codebook.pdf")
 
 print("Building coding dashboard...")
 generate_coding_tool(
-    output_filename = "human_coding_economy_valence.html",
+    output_filename = "example_data/human_coding_economy_valence.html",
     articles_data = economy_news,
     questions_config = economy_valence_questions,
     article_level_config = economy_article_tags,
